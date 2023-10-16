@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.calc{
+  margin-top:35vh;
+}
+#i1{
+  width:20%;
+  height:30px;
+}
+#t1{
+  font-weight:bold;
+  font-size:22px;
+}
